@@ -33,3 +33,18 @@ JavaScript code for a Hubspot form
 Art by Yustina
 5
 - Mohie worked in a timely fashion, always listened to the requirements and made changes accountably no matter how long it took him. I look forward to working with him again soon. Highly recommended Full Stack Developer (MERN)
+
+## Harold T. 
+Silver Input App
+5
+- Client rated 5 starts
+
+## Mathijs M.
+REALTIMEGINI
+5
+- Client rated 5 starts
+
+## Ernie S.
+Ewegot
+5
+- Client rated 5 starts

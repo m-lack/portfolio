@@ -6,13 +6,12 @@ import Projects from "./components/Projects";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import { DarkMode } from "@chakra-ui/react";
 
 function App() {
   const color = "purple";
 
   return (
-    <DarkMode>
+    <>
       <Nav color={color} />
       <Header color={color} />
       <About color={color} />
@@ -21,7 +20,7 @@ function App() {
       <Testimonials color={color} />
       <Contact color={color} />
       <Footer />
-    </DarkMode>
+    </>
   );
 }
 

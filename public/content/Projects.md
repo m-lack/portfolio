@@ -1,3 +1,54 @@
+## Silver Input App
+An Electron-based desktop app that allows users to analyze and review trading signal opportunities in real time, with a clean dashboard interface and structured data insights for decision-making.
+- ![600x200](../assets/cryptobot.webp)
+- Tags: NextJS
+- Badges:
+  - React [blue]
+  - Electron [blue]
+  - TypeScript [darkblue]
+- Buttons:
+
+## realtimegini
+An interactive data visualization platform that maps and displays billionaire statistics worldwide, with dynamic updates and geographic filtering.
+- ![600x200](../assets/realtimegini.webp)
+- Tags: NextJS
+- Badges:
+  - NextJS [black]
+  - Mapbox [blue]
+- Buttons:
+
+## Ewegot
+A full-featured e-commerce marketplace where users can list, buy, and sell products, featuring user authentication, product management, and secure backend APIs.
+- ![600x200](../assets/ewegot.webp)
+- Tags: NextJS
+- Badges:
+  - React [blue]
+  - TypeScript [black]
+  - ExpressJS [yellow]
+  - Postgres SQL [darkblue]
+- Buttons:
+
+## Peeknum
+A real-time multiplayer browser game where two players secretly choose numbers and compete to guess correctly, with the winner claiming the shared jackpot pool.
+- ![600x200](../assets/peeknum.webp)
+- Tags: NextJS
+- Badges:
+  - NextJS [black]
+  - ExpressJS [yellow]
+  - Mongodb [green]
+
+- Buttons:
+
+## Douahou
+A daily jackpot web platform where users contribute to a shared pot, and one winner is selected to claim the accumulated prize for that day.
+- ![600x200](../assets/douahou.webp)
+- Tags: NextJS
+- Badges:
+  - NextJS [black]
+  - ExpressJS [yellow]
+  - Mongodb [green]
+
+
 ## Cashful
 Providing the complete infrastructure and tools required to enable businesses to embed, launch and distribute financial products to a new market of customers.
 - ![600x200](../assets/cashful.webp)

@@ -12,6 +12,16 @@
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>Mohie Eddine Lakhdar</title>
+    <script>
+      !(function() {
+        var e = "chakra-ui-color-mode",
+          t = "dark",
+          a = localStorage.getItem(e);
+        a && (t = a),
+          document.documentElement.setAttribute("data-theme", t),
+          "dark" === t && document.documentElement.classList.add("chakra-ui-dark");
+      })();
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
